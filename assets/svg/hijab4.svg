@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <rect width="320" height="200" fill="#ffffff"/>
+  <path d="M50 150c0-48 80-95 110-95s110 47 110 95" fill="#7B1E3A" opacity="0.85"/>
+  <path d="M80 120c14-16 44-16 58 0M182 120c14-16 44-16 58 0" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <text x="18" y="30" font-family="Poppins, Arial" font-size="18" fill="#7B1E3A">Hijab Motif</text>
+</svg>

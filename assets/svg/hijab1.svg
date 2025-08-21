@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <rect width="320" height="200" fill="#ffffff"/>
+  <path d="M40 140c0-50 60-90 120-90s120 40 120 90" fill="#B83256" opacity="0.18"/>
+  <path d="M60 130c10-28 60-60 100-60s90 32 100 60" fill="#7B1E3A" opacity="0.8"/>
+  <circle cx="160" cy="100" r="22" fill="#ffffff" opacity="0.9"/>
+  <text x="18" y="30" font-family="Poppins, Arial" font-size="18" fill="#7B1E3A">Hijab Satin</text>
+</svg>
